@@ -36,7 +36,7 @@
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/jobsync.git
+git clone https:https://github.com/aryanmatrix03/JobSync
 cd jobsync
 ```
 
