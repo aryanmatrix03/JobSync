@@ -78,7 +78,9 @@ VITE_BACKEND_URL=http://localhost:8000
 
 ## 🌐 Live Demo
 
-🧪 Front-end: https://job-sync-w4uh.vercel.app/ 
+🧪 Front-end Deployement(Vercel): https://job-sync-w4uh.vercel.app/  
+🧪 Back-end Deployement(Render): https://jobsync-backend-deployement.onrender.com
+
 
 
 ---
